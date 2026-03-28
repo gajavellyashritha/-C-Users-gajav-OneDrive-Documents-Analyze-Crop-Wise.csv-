@@ -1,0 +1,1023 @@
+State,District,Crop,Season,Area-2024-25,Production-2024-25,Yield-2024-25
+Punjab,Amritsar,Rice,Kharif,1.82,6.27,3438
+Punjab,Amritsar,Rice,Total,1.82,6.27,3438
+Punjab,Amritsar,Wheat,Rabi,1.86,9.67,5188
+Punjab,Amritsar,Wheat,Total,1.86,9.67,5188
+Punjab,Amritsar,Maize,Kharif,0,0.01,4579
+Punjab,Amritsar,Maize,Total,0,0.01,4579
+Punjab,Amritsar,Nutri/Coarse Cereals,Kharif,0,0.01,4579
+Punjab,Amritsar,Nutri/Coarse Cereals,Total,0,0.01,4579
+Punjab,Amritsar,Cereals,Kharif,1.83,6.28,3439
+Punjab,Amritsar,Cereals,Rabi,1.86,9.67,5188
+Punjab,Amritsar,Cereals,Total,3.69,15.95,4323
+Punjab,Amritsar,Moong,Summer,0.01,0.01,650
+Punjab,Amritsar,Moong,Total,0.01,0.01,650
+Punjab,Amritsar,Total Pulses,Total,0.01,0.01,650
+Punjab,Amritsar,Total Food Grains,Kharif,1.83,6.28,3439
+Punjab,Amritsar,Total Food Grains,Rabi,1.86,9.67,5188
+Punjab,Amritsar,Total Food Grains,Summer,0.01,0.01,650
+Punjab,Amritsar,Total Food Grains,Total,3.7,15.95,4312
+Punjab,Barnala,Rice,Kharif,1.15,5.62,4909
+Punjab,Barnala,Rice,Total,1.15,5.62,4909
+Punjab,Barnala,Wheat,Rabi,1.14,6.03,5276
+Punjab,Barnala,Wheat,Total,1.14,6.03,5276
+Punjab,Barnala,Maize,Kharif,0,0,4234
+Punjab,Barnala,Maize,Total,0,0,4234
+Punjab,Barnala,Barley,Rabi,0,0.01,4009
+Punjab,Barnala,Barley,Total,0,0.01,4009
+Punjab,Barnala,Bajra,Kharif,0,0,948
+Punjab,Barnala,Bajra,Total,0,0,948
+Punjab,Barnala,Shree Anna /Nutri Cereals,Kharif,0,0,948
+Punjab,Barnala,Shree Anna /Nutri Cereals,Total,0,0,948
+Punjab,Barnala,Nutri/Coarse Cereals,Kharif,0,0.01,2591
+Punjab,Barnala,Nutri/Coarse Cereals,Rabi,0,0.01,4009
+Punjab,Barnala,Nutri/Coarse Cereals,Total,0.01,0.02,3442
+Punjab,Barnala,Cereals,Kharif,1.15,5.63,4905
+Punjab,Barnala,Cereals,Rabi,1.15,6.04,5272
+Punjab,Barnala,Cereals,Total,2.29,11.67,5089
+Punjab,Barnala,Gram,Rabi,0,0,1210
+Punjab,Barnala,Gram,Total,0,0,1210
+Punjab,Barnala,Moong,Kharif,0.01,0.01,1384
+Punjab,Barnala,Moong,Summer,0.01,0.01,1000
+Punjab,Barnala,Moong,Total,0.01,0.02,1132
+Punjab,Barnala,Total Pulses,Total,0.02,0.02,1136
+Punjab,Barnala,Total Food Grains,Kharif,1.15,5.63,4890
+Punjab,Barnala,Total Food Grains,Rabi,1.15,6.04,5269
+Punjab,Barnala,Total Food Grains,Summer,0.01,0.01,1000
+Punjab,Barnala,Total Food Grains,Total,2.31,11.69,5062
+Punjab,Bathinda,Rice,Kharif,2.17,9.81,4530
+Punjab,Bathinda,Rice,Total,2.17,9.81,4530
+Punjab,Bathinda,Wheat,Rabi,2.55,13.66,5350
+Punjab,Bathinda,Wheat,Total,2.55,13.66,5350
+Punjab,Bathinda,Maize,Kharif,0,0,4234
+Punjab,Bathinda,Maize,Total,0,0,4234
+Punjab,Bathinda,Barley,Rabi,0.01,0.02,3068
+Punjab,Bathinda,Barley,Total,0.01,0.02,3068
+Punjab,Bathinda,Nutri/Coarse Cereals,Kharif,0,0,4234
+Punjab,Bathinda,Nutri/Coarse Cereals,Rabi,0.01,0.02,3068
+Punjab,Bathinda,Nutri/Coarse Cereals,Total,0.01,0.02,3263
+Punjab,Bathinda,Cereals,Kharif,2.17,9.81,4530
+Punjab,Bathinda,Cereals,Rabi,2.56,13.67,5345
+Punjab,Bathinda,Cereals,Total,4.72,23.48,4971
+Punjab,Bathinda,Gram,Rabi,0,0,1362
+Punjab,Bathinda,Gram,Total,0,0,1362
+Punjab,Bathinda,Moong,Kharif,0.01,0,199
+Punjab,Bathinda,Moong,Summer,0,0,800
+Punjab,Bathinda,Moong,Total,0.01,0,254
+Punjab,Bathinda,Total Pulses,Total,0.01,0,346
+Punjab,Bathinda,Total Food Grains,Kharif,2.18,9.81,4510
+Punjab,Bathinda,Total Food Grains,Rabi,2.56,13.68,5344
+Punjab,Bathinda,Total Food Grains,Summer,0,0,800
+Punjab,Bathinda,Total Food Grains,Total,4.74,23.49,4960
+Punjab,Faridkot,Rice,Kharif,1.17,5.14,4388
+Punjab,Faridkot,Rice,Total,1.17,5.14,4388
+Punjab,Faridkot,Wheat,Rabi,1.15,6.08,5289
+Punjab,Faridkot,Wheat,Total,1.15,6.08,5289
+Punjab,Faridkot,Barley,Rabi,0,0,3800
+Punjab,Faridkot,Barley,Total,0,0,3800
+Punjab,Faridkot,Nutri/Coarse Cereals,Rabi,0,0,3800
+Punjab,Faridkot,Nutri/Coarse Cereals,Total,0,0,3800
+Punjab,Faridkot,Cereals,Kharif,1.17,5.14,4388
+Punjab,Faridkot,Cereals,Rabi,1.15,6.08,5288
+Punjab,Faridkot,Cereals,Total,2.32,11.22,4834
+Punjab,Faridkot,Gram,Rabi,0,0,1710
+Punjab,Faridkot,Gram,Total,0,0,1710
+Punjab,Faridkot,Moong,Kharif,0,0,1106
+Punjab,Faridkot,Moong,Summer,0.01,0,776
+Punjab,Faridkot,Moong,Total,0.01,0,831
+Punjab,Faridkot,Total Pulses,Total,0.01,0.01,859
+Punjab,Faridkot,Total Food Grains,Kharif,1.17,5.14,4385
+Punjab,Faridkot,Total Food Grains,Rabi,1.15,6.08,5287
+Punjab,Faridkot,Total Food Grains,Summer,0.01,0,776
+Punjab,Faridkot,Total Food Grains,Total,2.33,11.23,4823
+Punjab,Fatehgarh Sahib,Rice,Kharif,0.88,4.1,4675
+Punjab,Fatehgarh Sahib,Rice,Total,0.88,4.1,4675
+Punjab,Fatehgarh Sahib,Wheat,Rabi,0.85,4.47,5249
+Punjab,Fatehgarh Sahib,Wheat,Total,0.85,4.47,5249
+Punjab,Fatehgarh Sahib,Maize,Kharif,0,0.01,4234
+Punjab,Fatehgarh Sahib,Maize,Total,0,0.01,4234
+Punjab,Fatehgarh Sahib,Barley,Rabi,0,0.01,3559
+Punjab,Fatehgarh Sahib,Barley,Total,0,0.01,3559
+Punjab,Fatehgarh Sahib,Nutri/Coarse Cereals,Kharif,0,0.01,4234
+Punjab,Fatehgarh Sahib,Nutri/Coarse Cereals,Rabi,0,0.01,3559
+Punjab,Fatehgarh Sahib,Nutri/Coarse Cereals,Total,0,0.02,3897
+Punjab,Fatehgarh Sahib,Cereals,Kharif,0.88,4.11,4674
+Punjab,Fatehgarh Sahib,Cereals,Rabi,0.85,4.47,5245
+Punjab,Fatehgarh Sahib,Cereals,Total,1.73,8.58,4955
+Punjab,Fatehgarh Sahib,Moong,Summer,0,0,1015
+Punjab,Fatehgarh Sahib,Moong,Total,0,0,1015
+Punjab,Fatehgarh Sahib,Total Pulses,Total,0,0,1015
+Punjab,Fatehgarh Sahib,Total Food Grains,Kharif,0.88,4.11,4674
+Punjab,Fatehgarh Sahib,Total Food Grains,Rabi,0.85,4.47,5245
+Punjab,Fatehgarh Sahib,Total Food Grains,Summer,0,0,1015
+Punjab,Fatehgarh Sahib,Total Food Grains,Total,1.74,8.59,4948
+Punjab,Fazilka,Rice,Kharif,1.28,4.29,3349
+Punjab,Fazilka,Rice,Total,1.28,4.29,3349
+Punjab,Fazilka,Wheat,Rabi,1.97,9.73,4947
+Punjab,Fazilka,Wheat,Total,1.97,9.73,4947
+Punjab,Fazilka,Maize,Kharif,0,0.02,5605
+Punjab,Fazilka,Maize,Total,0,0.02,5605
+Punjab,Fazilka,Barley,Rabi,0.01,0.03,3374
+Punjab,Fazilka,Barley,Total,0.01,0.03,3374
+Punjab,Fazilka,Bajra,Kharif,0,0,948
+Punjab,Fazilka,Bajra,Total,0,0,948
+Punjab,Fazilka,Shree Anna /Nutri Cereals,Kharif,0,0,948
+Punjab,Fazilka,Shree Anna /Nutri Cereals,Total,0,0,948
+Punjab,Fazilka,Nutri/Coarse Cereals,Kharif,0.01,0.02,4673
+Punjab,Fazilka,Nutri/Coarse Cereals,Rabi,0.01,0.03,3374
+Punjab,Fazilka,Nutri/Coarse Cereals,Total,0.01,0.05,3874
+Punjab,Fazilka,Cereals,Kharif,1.29,4.31,3355
+Punjab,Fazilka,Cereals,Rabi,1.97,9.75,4941
+Punjab,Fazilka,Cereals,Total,3.26,14.07,4315
+Punjab,Fazilka,Gram,Rabi,0.01,0.01,1136
+Punjab,Fazilka,Gram,Total,0.01,0.01,1136
+Punjab,Fazilka,Moong,Kharif,0.01,0,557
+Punjab,Fazilka,Moong,Summer,0.04,0.04,985
+Punjab,Fazilka,Moong,Total,0.05,0.04,910
+Punjab,Fazilka,Total Pulses,Total,0.05,0.05,944
+Punjab,Fazilka,Total Food Grains,Kharif,1.29,4.32,3337
+Punjab,Fazilka,Total Food Grains,Rabi,1.98,9.76,4925
+Punjab,Fazilka,Total Food Grains,Summer,0.04,0.04,985
+Punjab,Fazilka,Total Food Grains,Total,3.31,14.12,4260
+Punjab,Ferozepur,Rice,Kharif,1.87,8.72,4672
+Punjab,Ferozepur,Rice,Total,1.87,8.72,4672
+Punjab,Ferozepur,Wheat,Rabi,1.87,9.79,5223
+Punjab,Ferozepur,Wheat,Total,1.87,9.79,5223
+Punjab,Ferozepur,Maize,Kharif,0,0,4234
+Punjab,Ferozepur,Maize,Total,0,0,4234
+Punjab,Ferozepur,Bajra,Kharif,0,0,945
+Punjab,Ferozepur,Bajra,Total,0,0,945
+Punjab,Ferozepur,Shree Anna /Nutri Cereals,Kharif,0,0,945
+Punjab,Ferozepur,Shree Anna /Nutri Cereals,Total,0,0,945
+Punjab,Ferozepur,Nutri/Coarse Cereals,Kharif,0,0.01,1767
+Punjab,Ferozepur,Nutri/Coarse Cereals,Total,0,0.01,1767
+Punjab,Ferozepur,Cereals,Kharif,1.87,8.73,4666
+Punjab,Ferozepur,Cereals,Rabi,1.87,9.79,5223
+Punjab,Ferozepur,Cereals,Total,3.75,18.52,4945
+Punjab,Ferozepur,Moong,Kharif,0,0,785
+Punjab,Ferozepur,Moong,Summer,0.02,0.01,1000
+Punjab,Ferozepur,Moong,Total,0.02,0.02,986
+Punjab,Ferozepur,Total Pulses,Total,0.02,0.02,986
+Punjab,Ferozepur,Total Food Grains,Kharif,1.87,8.73,4664
+Punjab,Ferozepur,Total Food Grains,Rabi,1.87,9.79,5223
+Punjab,Ferozepur,Total Food Grains,Summer,0.02,0.01,1000
+Punjab,Ferozepur,Total Food Grains,Total,3.76,18.53,4928
+Punjab,Gurdaspur,Rice,Kharif,1.73,7.04,4072
+Punjab,Gurdaspur,Rice,Total,1.73,7.04,4072
+Punjab,Gurdaspur,Wheat,Rabi,1.86,8.99,4834
+Punjab,Gurdaspur,Wheat,Total,1.86,8.99,4834
+Punjab,Gurdaspur,Maize,Kharif,0,0.01,3605
+Punjab,Gurdaspur,Maize,Total,0,0.01,3605
+Punjab,Gurdaspur,Nutri/Coarse Cereals,Kharif,0,0.01,3605
+Punjab,Gurdaspur,Nutri/Coarse Cereals,Total,0,0.01,3605
+Punjab,Gurdaspur,Cereals,Kharif,1.73,7.05,4071
+Punjab,Gurdaspur,Cereals,Rabi,1.86,8.99,4834
+Punjab,Gurdaspur,Cereals,Total,3.59,16.04,4466
+Punjab,Gurdaspur,Urad,Kharif,0,0,873
+Punjab,Gurdaspur,Urad,Total,0,0,873
+Punjab,Gurdaspur,Moong,Summer,0,0,850
+Punjab,Gurdaspur,Moong,Total,0,0,850
+Punjab,Gurdaspur,Lentil,Rabi,0,0,930
+Punjab,Gurdaspur,Lentil,Total,0,0,930
+Punjab,Gurdaspur,Total Pulses,Total,0.01,0,869
+Punjab,Gurdaspur,Total Food Grains,Kharif,1.73,7.05,4069
+Punjab,Gurdaspur,Total Food Grains,Rabi,1.86,8.99,4832
+Punjab,Gurdaspur,Total Food Grains,Summer,0,0,850
+Punjab,Gurdaspur,Total Food Grains,Total,3.6,16.04,4461
+Punjab,Hoshiarpur,Rice,Kharif,0.8,3.44,4319
+Punjab,Hoshiarpur,Rice,Total,0.8,3.44,4319
+Punjab,Hoshiarpur,Wheat,Rabi,1.46,6.33,4345
+Punjab,Hoshiarpur,Wheat,Total,1.46,6.33,4345
+Punjab,Hoshiarpur,Maize,Kharif,0.42,1.57,3765
+Punjab,Hoshiarpur,Maize,Total,0.42,1.57,3765
+Punjab,Hoshiarpur,Nutri/Coarse Cereals,Kharif,0.42,1.57,3765
+Punjab,Hoshiarpur,Nutri/Coarse Cereals,Total,0.42,1.57,3765
+Punjab,Hoshiarpur,Cereals,Kharif,1.21,5,4129
+Punjab,Hoshiarpur,Cereals,Rabi,1.46,6.33,4345
+Punjab,Hoshiarpur,Cereals,Total,2.67,11.34,4247
+Punjab,Hoshiarpur,Gram,Rabi,0,0,1051
+Punjab,Hoshiarpur,Gram,Total,0,0,1051
+Punjab,Hoshiarpur,Urad,Kharif,0,0,708
+Punjab,Hoshiarpur,Urad,Total,0,0,708
+Punjab,Hoshiarpur,Moong,Summer,0,0,780
+Punjab,Hoshiarpur,Moong,Total,0,0,780
+Punjab,Hoshiarpur,Lentil,Rabi,0,0,768
+Punjab,Hoshiarpur,Lentil,Total,0,0,768
+Punjab,Hoshiarpur,Total Pulses,Total,0,0,770
+Punjab,Hoshiarpur,Total Food Grains,Kharif,1.21,5,4125
+Punjab,Hoshiarpur,Total Food Grains,Rabi,1.46,6.33,4343
+Punjab,Hoshiarpur,Total Food Grains,Summer,0,0,780
+Punjab,Hoshiarpur,Total Food Grains,Total,2.67,11.34,4241
+Punjab,Jalandhar,Rice,Kharif,1.76,7.91,4507
+Punjab,Jalandhar,Rice,Total,1.76,7.91,4507
+Punjab,Jalandhar,Wheat,Rabi,1.73,8.69,5012
+Punjab,Jalandhar,Wheat,Total,1.73,8.69,5012
+Punjab,Jalandhar,Maize,Kharif,0.04,0.16,4077
+Punjab,Jalandhar,Maize,Total,0.04,0.16,4077
+Punjab,Jalandhar,Nutri/Coarse Cereals,Kharif,0.04,0.16,4077
+Punjab,Jalandhar,Nutri/Coarse Cereals,Total,0.04,0.16,4077
+Punjab,Jalandhar,Cereals,Kharif,1.8,8.07,4497
+Punjab,Jalandhar,Cereals,Rabi,1.73,8.69,5012
+Punjab,Jalandhar,Cereals,Total,3.53,16.76,4750
+Punjab,Jalandhar,Tur,Kharif,0,0,1632
+Punjab,Jalandhar,Tur,Total,0,0,1632
+Punjab,Jalandhar,Moong,Summer,0,0,980
+Punjab,Jalandhar,Moong,Total,0,0,980
+Punjab,Jalandhar,Total Pulses,Total,0,0.01,1469
+Punjab,Jalandhar,Total Food Grains,Kharif,1.8,8.08,4492
+Punjab,Jalandhar,Total Food Grains,Rabi,1.73,8.69,5012
+Punjab,Jalandhar,Total Food Grains,Summer,0,0,980
+Punjab,Jalandhar,Total Food Grains,Total,3.53,16.77,4746
+Punjab,Kapurthala,Rice,Kharif,1.17,5.59,4791
+Punjab,Kapurthala,Rice,Total,1.17,5.59,4791
+Punjab,Kapurthala,Wheat,Rabi,1.07,5.49,5111
+Punjab,Kapurthala,Wheat,Total,1.07,5.49,5111
+Punjab,Kapurthala,Maize,Kharif,0.01,0.04,4087
+Punjab,Kapurthala,Maize,Total,0.01,0.04,4087
+Punjab,Kapurthala,Nutri/Coarse Cereals,Kharif,0.01,0.04,4087
+Punjab,Kapurthala,Nutri/Coarse Cereals,Total,0.01,0.04,4087
+Punjab,Kapurthala,Cereals,Kharif,1.18,5.63,4784
+Punjab,Kapurthala,Cereals,Rabi,1.07,5.49,5111
+Punjab,Kapurthala,Cereals,Total,2.25,11.12,4940
+Punjab,Kapurthala,Moong,Summer,0,0,1270
+Punjab,Kapurthala,Moong,Total,0,0,1270
+Punjab,Kapurthala,Total Pulses,Total,0,0,1270
+Punjab,Kapurthala,Total Food Grains,Kharif,1.18,5.63,4784
+Punjab,Kapurthala,Total Food Grains,Rabi,1.07,5.49,5111
+Punjab,Kapurthala,Total Food Grains,Summer,0,0,1270
+Punjab,Kapurthala,Total Food Grains,Total,2.25,11.13,4937
+Punjab,Ludhiana,Rice,Kharif,2.58,12.42,4812
+Punjab,Ludhiana,Rice,Total,2.58,12.42,4812
+Punjab,Ludhiana,Wheat,Rabi,2.4,12.33,5132
+Punjab,Ludhiana,Wheat,Total,2.4,12.33,5132
+Punjab,Ludhiana,Maize,Kharif,0.01,0.02,3660
+Punjab,Ludhiana,Maize,Total,0.01,0.02,3660
+Punjab,Ludhiana,Barley,Rabi,0.01,0.04,3577
+Punjab,Ludhiana,Barley,Total,0.01,0.04,3577
+Punjab,Ludhiana,Nutri/Coarse Cereals,Kharif,0.01,0.02,3660
+Punjab,Ludhiana,Nutri/Coarse Cereals,Rabi,0.01,0.04,3577
+Punjab,Ludhiana,Nutri/Coarse Cereals,Total,0.02,0.05,3605
+Punjab,Ludhiana,Cereals,Kharif,2.59,12.44,4809
+Punjab,Ludhiana,Cereals,Rabi,2.41,12.36,5125
+Punjab,Ludhiana,Cereals,Total,5,24.8,4962
+Punjab,Ludhiana,Tur,Kharif,0,0,1064
+Punjab,Ludhiana,Tur,Total,0,0,1064
+Punjab,Ludhiana,Moong,Kharif,0,0,1005
+Punjab,Ludhiana,Moong,Summer,0.05,0.05,1020
+Punjab,Ludhiana,Moong,Total,0.05,0.05,1019
+Punjab,Ludhiana,Other Pulses,Rabi,0,0,1420
+Punjab,Ludhiana,Other Pulses,Total,0,0,1420
+Punjab,Ludhiana,Total Pulses,Total,0.05,0.05,1030
+Punjab,Ludhiana,Total Food Grains,Kharif,2.59,12.44,4803
+Punjab,Ludhiana,Total Food Grains,Rabi,2.41,12.36,5124
+Punjab,Ludhiana,Total Food Grains,Summer,0.05,0.05,1020
+Punjab,Ludhiana,Total Food Grains,Total,5.05,24.85,4922
+Punjab,Malerkotla,Rice,Kharif,0.53,2.83,5328
+Punjab,Malerkotla,Rice,Total,0.53,2.83,5328
+Punjab,Malerkotla,Wheat,Rabi,0.52,2.84,5439
+Punjab,Malerkotla,Wheat,Total,0.52,2.84,5439
+Punjab,Malerkotla,Maize,Kharif,0,0.01,4234
+Punjab,Malerkotla,Maize,Total,0,0.01,4234
+Punjab,Malerkotla,Barley,Rabi,0,0.02,4245
+Punjab,Malerkotla,Barley,Total,0,0.02,4245
+Punjab,Malerkotla,Nutri/Coarse Cereals,Kharif,0,0.01,4234
+Punjab,Malerkotla,Nutri/Coarse Cereals,Rabi,0,0.02,4245
+Punjab,Malerkotla,Nutri/Coarse Cereals,Total,0.01,0.03,4242
+Punjab,Malerkotla,Cereals,Kharif,0.53,2.84,5324
+Punjab,Malerkotla,Cereals,Rabi,0.53,2.86,5430
+Punjab,Malerkotla,Cereals,Total,1.06,5.7,5377
+Punjab,Malerkotla,Tur,Kharif,0,0,1170
+Punjab,Malerkotla,Tur,Total,0,0,1170
+Punjab,Malerkotla,Moong,Kharif,0,0,873
+Punjab,Malerkotla,Moong,Summer,0,0,1250
+Punjab,Malerkotla,Moong,Total,0,0,1118
+Punjab,Malerkotla,Total Pulses,Total,0,0,1146
+Punjab,Malerkotla,Total Food Grains,Kharif,0.54,2.84,5314
+Punjab,Malerkotla,Total Food Grains,Rabi,0.53,2.86,5430
+Punjab,Malerkotla,Total Food Grains,Summer,0,0,1250
+Punjab,Malerkotla,Total Food Grains,Total,1.06,5.71,5369
+Punjab,Mansa,Rice,Kharif,1.44,6.38,4434
+Punjab,Mansa,Rice,Total,1.44,6.38,4434
+Punjab,Mansa,Wheat,Rabi,1.72,9.08,5276
+Punjab,Mansa,Wheat,Total,1.72,9.08,5276
+Punjab,Mansa,Maize,Kharif,0,0,4234
+Punjab,Mansa,Maize,Total,0,0,4234
+Punjab,Mansa,Barley,Rabi,0,0.01,3273
+Punjab,Mansa,Barley,Total,0,0.01,3273
+Punjab,Mansa,Bajra,Kharif,0,0,950
+Punjab,Mansa,Bajra,Total,0,0,950
+Punjab,Mansa,Shree Anna /Nutri Cereals,Kharif,0,0,950
+Punjab,Mansa,Shree Anna /Nutri Cereals,Total,0,0,950
+Punjab,Mansa,Nutri/Coarse Cereals,Kharif,0.01,0.01,1607
+Punjab,Mansa,Nutri/Coarse Cereals,Rabi,0,0.01,3273
+Punjab,Mansa,Nutri/Coarse Cereals,Total,0.01,0.02,2232
+Punjab,Mansa,Cereals,Kharif,1.44,6.38,4424
+Punjab,Mansa,Cereals,Rabi,1.72,9.09,5273
+Punjab,Mansa,Cereals,Total,3.17,15.47,4886
+Punjab,Mansa,Gram,Rabi,0,0,1401
+Punjab,Mansa,Gram,Total,0,0,1401
+Punjab,Mansa,Moong,Kharif,0,0,582
+Punjab,Mansa,Moong,Summer,0.08,0.05,650
+Punjab,Mansa,Moong,Total,0.08,0.05,649
+Punjab,Mansa,Total Pulses,Total,0.08,0.05,656
+Punjab,Mansa,Total Food Grains,Kharif,1.44,6.38,4421
+Punjab,Mansa,Total Food Grains,Rabi,1.72,9.09,5271
+Punjab,Mansa,Total Food Grains,Summer,0.08,0.05,650
+Punjab,Mansa,Total Food Grains,Total,3.25,15.53,4784
+Punjab,Moga,Rice,Kharif,1.85,8.72,4721
+Punjab,Moga,Rice,Total,1.85,8.72,4721
+Punjab,Moga,Wheat,Rabi,1.76,9.44,5360
+Punjab,Moga,Wheat,Total,1.76,9.44,5360
+Punjab,Moga,Maize,Kharif,0,0.01,4234
+Punjab,Moga,Maize,Total,0,0.01,4234
+Punjab,Moga,Barley,Rabi,0,0.01,3809
+Punjab,Moga,Barley,Total,0,0.01,3809
+Punjab,Moga,Nutri/Coarse Cereals,Kharif,0,0.01,4234
+Punjab,Moga,Nutri/Coarse Cereals,Rabi,0,0.01,3809
+Punjab,Moga,Nutri/Coarse Cereals,Total,0,0.02,4022
+Punjab,Moga,Cereals,Kharif,1.85,8.73,4720
+Punjab,Moga,Cereals,Rabi,1.76,9.45,5358
+Punjab,Moga,Cereals,Total,3.61,18.17,5032
+Punjab,Moga,Tur,Kharif,0,0,1116
+Punjab,Moga,Tur,Total,0,0,1116
+Punjab,Moga,Moong,Kharif,0,0,785
+Punjab,Moga,Moong,Summer,0.04,0.04,1000
+Punjab,Moga,Moong,Total,0.04,0.04,995
+Punjab,Moga,Total Pulses,Total,0.05,0.05,1003
+Punjab,Moga,Total Food Grains,Kharif,1.85,8.73,4712
+Punjab,Moga,Total Food Grains,Rabi,1.76,9.45,5358
+Punjab,Moga,Total Food Grains,Summer,0.04,0.04,1000
+Punjab,Moga,Total Food Grains,Total,3.66,18.22,4980
+Punjab,Pathankot,Rice,Kharif,0.27,1,3648
+Punjab,Pathankot,Rice,Total,0.27,1,3648
+Punjab,Pathankot,Wheat,Rabi,0.4,1.68,4184
+Punjab,Pathankot,Wheat,Total,0.4,1.68,4184
+Punjab,Pathankot,Maize,Kharif,0.06,0.2,3313
+Punjab,Pathankot,Maize,Total,0.06,0.2,3313
+Punjab,Pathankot,Barley,Rabi,0,0,3116
+Punjab,Pathankot,Barley,Total,0,0,3116
+Punjab,Pathankot,Nutri/Coarse Cereals,Kharif,0.06,0.2,3313
+Punjab,Pathankot,Nutri/Coarse Cereals,Rabi,0,0,3116
+Punjab,Pathankot,Nutri/Coarse Cereals,Total,0.06,0.2,3313
+Punjab,Pathankot,Cereals,Kharif,0.33,1.19,3588
+Punjab,Pathankot,Cereals,Rabi,0.4,1.68,4183
+Punjab,Pathankot,Cereals,Total,0.73,2.87,3913
+Punjab,Pathankot,Gram,Rabi,0,0,1210
+Punjab,Pathankot,Gram,Total,0,0,1210
+Punjab,Pathankot,Urad,Kharif,0.01,0.01,544
+Punjab,Pathankot,Urad,Total,0.01,0.01,544
+Punjab,Pathankot,Moong,Summer,0,0,880
+Punjab,Pathankot,Moong,Total,0,0,880
+Punjab,Pathankot,Total Pulses,Total,0.01,0.01,577
+Punjab,Pathankot,Total Food Grains,Kharif,0.34,1.2,3499
+Punjab,Pathankot,Total Food Grains,Rabi,0.4,1.68,4182
+Punjab,Pathankot,Total Food Grains,Summer,0,0,880
+Punjab,Pathankot,Total Food Grains,Total,0.74,2.88,3865
+Punjab,Patiala,Rice,Kharif,2.33,10.45,4483
+Punjab,Patiala,Rice,Total,2.33,10.45,4483
+Punjab,Patiala,Wheat,Rabi,2.31,11.65,5038
+Punjab,Patiala,Wheat,Total,2.31,11.65,5038
+Punjab,Patiala,Maize,Kharif,0.01,0.04,5031
+Punjab,Patiala,Maize,Total,0.01,0.04,5031
+Punjab,Patiala,Barley,Rabi,0,0.01,4093
+Punjab,Patiala,Barley,Total,0,0.01,4093
+Punjab,Patiala,Nutri/Coarse Cereals,Kharif,0.01,0.04,5031
+Punjab,Patiala,Nutri/Coarse Cereals,Rabi,0,0.01,4093
+Punjab,Patiala,Nutri/Coarse Cereals,Total,0.01,0.04,4822
+Punjab,Patiala,Cereals,Kharif,2.34,10.49,4484
+Punjab,Patiala,Cereals,Rabi,2.32,11.66,5038
+Punjab,Patiala,Cereals,Total,4.65,22.15,4760
+Punjab,Patiala,Moong,Summer,0,0,1000
+Punjab,Patiala,Moong,Total,0,0,1000
+Punjab,Patiala,Total Pulses,Total,0,0,1000
+Punjab,Patiala,Total Food Grains,Kharif,2.34,10.49,4484
+Punjab,Patiala,Total Food Grains,Rabi,2.32,11.66,5038
+Punjab,Patiala,Total Food Grains,Summer,0,0,1000
+Punjab,Patiala,Total Food Grains,Total,4.66,22.15,4758
+Punjab,Rupnagar,Rice,Kharif,0.42,1.71,4108
+Punjab,Rupnagar,Rice,Total,0.42,1.71,4108
+Punjab,Rupnagar,Wheat,Rabi,0.67,3.12,4630
+Punjab,Rupnagar,Wheat,Total,0.67,3.12,4630
+Punjab,Rupnagar,Maize,Kharif,0.2,1.12,5535
+Punjab,Rupnagar,Maize,Total,0.2,1.12,5535
+Punjab,Rupnagar,Barley,Rabi,0,0,4441
+Punjab,Rupnagar,Barley,Total,0,0,4441
+Punjab,Rupnagar,Nutri/Coarse Cereals,Kharif,0.2,1.12,5535
+Punjab,Rupnagar,Nutri/Coarse Cereals,Rabi,0,0,4441
+Punjab,Rupnagar,Nutri/Coarse Cereals,Total,0.2,1.13,5529
+Punjab,Rupnagar,Cereals,Kharif,0.62,2.84,4575
+Punjab,Rupnagar,Cereals,Rabi,0.67,3.12,4630
+Punjab,Rupnagar,Cereals,Total,1.29,5.96,4604
+Punjab,Rupnagar,Gram,Rabi,0,0,1003
+Punjab,Rupnagar,Gram,Total,0,0,1003
+Punjab,Rupnagar,Urad,Kharif,0,0,493
+Punjab,Rupnagar,Urad,Total,0,0,493
+Punjab,Rupnagar,Moong,Summer,0,0,950
+Punjab,Rupnagar,Moong,Total,0,0,950
+Punjab,Rupnagar,Lentil,Rabi,0,0,332
+Punjab,Rupnagar,Lentil,Total,0,0,332
+Punjab,Rupnagar,Total Pulses,Total,0,0,642
+Punjab,Rupnagar,Total Food Grains,Kharif,0.62,2.84,4569
+Punjab,Rupnagar,Total Food Grains,Rabi,0.67,3.12,4624
+Punjab,Rupnagar,Total Food Grains,Summer,0,0,950
+Punjab,Rupnagar,Total Food Grains,Total,1.3,5.96,4596
+Punjab,S.A.S Nagar,Rice,Kharif,0.33,1.27,3884
+Punjab,S.A.S Nagar,Rice,Total,0.33,1.27,3884
+Punjab,S.A.S Nagar,Wheat,Rabi,0.52,2.41,4680
+Punjab,S.A.S Nagar,Wheat,Total,0.52,2.41,4680
+Punjab,S.A.S Nagar,Maize,Kharif,0.05,0.2,4550
+Punjab,S.A.S Nagar,Maize,Total,0.05,0.2,4550
+Punjab,S.A.S Nagar,Barley,Rabi,0,0.01,4009
+Punjab,S.A.S Nagar,Barley,Total,0,0.01,4009
+Punjab,S.A.S Nagar,Bajra,Kharif,0,0,948
+Punjab,S.A.S Nagar,Bajra,Total,0,0,948
+Punjab,S.A.S Nagar,Shree Anna /Nutri Cereals,Kharif,0,0,948
+Punjab,S.A.S Nagar,Shree Anna /Nutri Cereals,Total,0,0,948
+Punjab,S.A.S Nagar,Nutri/Coarse Cereals,Kharif,0.05,0.21,4397
+Punjab,S.A.S Nagar,Nutri/Coarse Cereals,Rabi,0,0.01,4009
+Punjab,S.A.S Nagar,Nutri/Coarse Cereals,Total,0.05,0.21,4387
+Punjab,S.A.S Nagar,Cereals,Kharif,0.37,1.48,3949
+Punjab,S.A.S Nagar,Cereals,Rabi,0.52,2.42,4678
+Punjab,S.A.S Nagar,Cereals,Total,0.89,3.9,4372
+Punjab,S.A.S Nagar,Gram,Rabi,0,0,1106
+Punjab,S.A.S Nagar,Gram,Total,0,0,1106
+Punjab,S.A.S Nagar,Moong,Summer,0,0,850
+Punjab,S.A.S Nagar,Moong,Total,0,0,850
+Punjab,S.A.S Nagar,Lentil,Rabi,0,0,675
+Punjab,S.A.S Nagar,Lentil,Total,0,0,675
+Punjab,S.A.S Nagar,Total Pulses,Total,0,0,786
+Punjab,S.A.S Nagar,Total Food Grains,Kharif,0.37,1.48,3949
+Punjab,S.A.S Nagar,Total Food Grains,Rabi,0.52,2.42,4667
+Punjab,S.A.S Nagar,Total Food Grains,Summer,0,0,850
+Punjab,S.A.S Nagar,Total Food Grains,Total,0.89,3.9,4364
+Punjab,Sangrur,Rice,Kharif,2.41,11.69,4853
+Punjab,Sangrur,Rice,Total,2.41,11.69,4853
+Punjab,Sangrur,Wheat,Rabi,2.4,13.25,5519
+Punjab,Sangrur,Wheat,Total,2.4,13.25,5519
+Punjab,Sangrur,Maize,Kharif,0,0,4234
+Punjab,Sangrur,Maize,Total,0,0,4234
+Punjab,Sangrur,Barley,Rabi,0.01,0.02,4495
+Punjab,Sangrur,Barley,Total,0.01,0.02,4495
+Punjab,Sangrur,Nutri/Coarse Cereals,Kharif,0,0,4234
+Punjab,Sangrur,Nutri/Coarse Cereals,Rabi,0.01,0.02,4495
+Punjab,Sangrur,Nutri/Coarse Cereals,Total,0.01,0.03,4452
+Punjab,Sangrur,Cereals,Kharif,2.41,11.69,4853
+Punjab,Sangrur,Cereals,Rabi,2.41,13.27,5517
+Punjab,Sangrur,Cereals,Total,4.82,24.97,5185
+Punjab,Sangrur,Gram,Rabi,0,0,1785
+Punjab,Sangrur,Gram,Total,0,0,1785
+Punjab,Sangrur,Moong,Kharif,0,0,1156
+Punjab,Sangrur,Moong,Summer,0.01,0.01,1250
+Punjab,Sangrur,Moong,Total,0.01,0.01,1242
+Punjab,Sangrur,Total Pulses,Total,0.01,0.02,1251
+Punjab,Sangrur,Total Food Grains,Kharif,2.41,11.69,4852
+Punjab,Sangrur,Total Food Grains,Rabi,2.41,13.27,5517
+Punjab,Sangrur,Total Food Grains,Summer,0.01,0.01,1250
+Punjab,Sangrur,Total Food Grains,Total,4.83,24.98,5175
+Punjab,Shahid Bhagat Singh Nagar,Rice,Kharif,0.63,2.87,4538
+Punjab,Shahid Bhagat Singh Nagar,Rice,Total,0.63,2.87,4538
+Punjab,Shahid Bhagat Singh Nagar,Wheat,Rabi,0.78,3.9,5019
+Punjab,Shahid Bhagat Singh Nagar,Wheat,Total,0.78,3.9,5019
+Punjab,Shahid Bhagat Singh Nagar,Maize,Kharif,0.05,0.26,4819
+Punjab,Shahid Bhagat Singh Nagar,Maize,Total,0.05,0.26,4819
+Punjab,Shahid Bhagat Singh Nagar,Nutri/Coarse Cereals,Kharif,0.05,0.26,4819
+Punjab,Shahid Bhagat Singh Nagar,Nutri/Coarse Cereals,Total,0.05,0.26,4819
+Punjab,Shahid Bhagat Singh Nagar,Cereals,Kharif,0.69,3.13,4560
+Punjab,Shahid Bhagat Singh Nagar,Cereals,Rabi,0.78,3.9,5019
+Punjab,Shahid Bhagat Singh Nagar,Cereals,Total,1.46,7.03,4804
+Punjab,Shahid Bhagat Singh Nagar,Moong,Summer,0,0,960
+Punjab,Shahid Bhagat Singh Nagar,Moong,Total,0,0,960
+Punjab,Shahid Bhagat Singh Nagar,Other Pulses,Rabi,0,0,1870
+Punjab,Shahid Bhagat Singh Nagar,Other Pulses,Total,0,0,1870
+Punjab,Shahid Bhagat Singh Nagar,Total Pulses,Total,0,0,1583
+Punjab,Shahid Bhagat Singh Nagar,Total Food Grains,Kharif,0.69,3.13,4560
+Punjab,Shahid Bhagat Singh Nagar,Total Food Grains,Rabi,0.78,3.9,5015
+Punjab,Shahid Bhagat Singh Nagar,Total Food Grains,Summer,0,0,960
+Punjab,Shahid Bhagat Singh Nagar,Total Food Grains,Total,1.47,7.03,4800
+Punjab,Sri Muktsar Sahib,Rice,Kharif,2.02,8.41,4173
+Punjab,Sri Muktsar Sahib,Rice,Total,2.02,8.41,4173
+Punjab,Sri Muktsar Sahib,Wheat,Rabi,2.18,11.71,5379
+Punjab,Sri Muktsar Sahib,Wheat,Total,2.18,11.71,5379
+Punjab,Sri Muktsar Sahib,Barley,Rabi,0,0.01,3907
+Punjab,Sri Muktsar Sahib,Barley,Total,0,0.01,3907
+Punjab,Sri Muktsar Sahib,Nutri/Coarse Cereals,Rabi,0,0.01,3907
+Punjab,Sri Muktsar Sahib,Nutri/Coarse Cereals,Total,0,0.01,3907
+Punjab,Sri Muktsar Sahib,Cereals,Kharif,2.02,8.41,4173
+Punjab,Sri Muktsar Sahib,Cereals,Rabi,2.18,11.72,5378
+Punjab,Sri Muktsar Sahib,Cereals,Total,4.2,20.13,4799
+Punjab,Sri Muktsar Sahib,Gram,Rabi,0,0,1159
+Punjab,Sri Muktsar Sahib,Gram,Total,0,0,1159
+Punjab,Sri Muktsar Sahib,Moong,Kharif,0,0,892
+Punjab,Sri Muktsar Sahib,Moong,Summer,0.01,0,750
+Punjab,Sri Muktsar Sahib,Moong,Total,0.01,0.01,771
+Punjab,Sri Muktsar Sahib,Total Pulses,Total,0.01,0.01,782
+Punjab,Sri Muktsar Sahib,Total Food Grains,Kharif,2.02,8.41,4171
+Punjab,Sri Muktsar Sahib,Total Food Grains,Rabi,2.18,11.72,5378
+Punjab,Sri Muktsar Sahib,Total Food Grains,Summer,0.01,0,750
+Punjab,Sri Muktsar Sahib,Total Food Grains,Total,4.2,20.14,4792
+Punjab,Tarn Taran,Rice,Kharif,1.85,7.93,4280
+Punjab,Tarn Taran,Rice,Total,1.85,7.93,4280
+Punjab,Tarn Taran,Wheat,Rabi,1.93,9.59,4973
+Punjab,Tarn Taran,Wheat,Total,1.93,9.59,4973
+Punjab,Tarn Taran,Maize,Kharif,0,0,4234
+Punjab,Tarn Taran,Maize,Total,0,0,4234
+Punjab,Tarn Taran,Nutri/Coarse Cereals,Kharif,0,0,4234
+Punjab,Tarn Taran,Nutri/Coarse Cereals,Total,0,0,4234
+Punjab,Tarn Taran,Cereals,Kharif,1.85,7.93,4280
+Punjab,Tarn Taran,Cereals,Rabi,1.93,9.59,4973
+Punjab,Tarn Taran,Cereals,Total,3.78,17.52,4633
+Punjab,Tarn Taran,Tur,Kharif,0,0,1261
+Punjab,Tarn Taran,Tur,Total,0,0,1261
+Punjab,Tarn Taran,Moong,Kharif,0,0,785
+Punjab,Tarn Taran,Moong,Summer,0.02,0.03,1270
+Punjab,Tarn Taran,Moong,Total,0.02,0.03,1247
+Punjab,Tarn Taran,Total Pulses,Total,0.02,0.03,1248
+Punjab,Tarn Taran,Total Food Grains,Kharif,1.86,7.93,4275
+Punjab,Tarn Taran,Total Food Grains,Rabi,1.93,9.59,4973
+Punjab,Tarn Taran,Total Food Grains,Summer,0.02,0.03,1270
+Punjab,Tarn Taran,Total Food Grains,Total,3.81,17.55,4613
+Punjab,Ferozepur,Rice,Kharif,0.19,0.87,4672
+Punjab,Ferozepur,Rice,Total,0.19,0.87,4672
+Punjab,Ferozepur,Wheat,Rabi,0.19,0.98,5223
+Punjab,Ferozepur,Wheat,Total,0.19,0.98,5223
+Punjab,Ferozepur,Maize,Kharif,0,0,4234
+Punjab,Ferozepur,Maize,Total,0,0,4234
+Punjab,Ferozepur,Bajra,Kharif,0,0,945
+Punjab,Ferozepur,Bajra,Total,0,0,945
+Punjab,Ferozepur,Shree Anna /Nutri Cereals,Kharif,0,0,945
+Punjab,Ferozepur,Shree Anna /Nutri Cereals,Total,0,0,945
+Punjab,Ferozepur,Nutri/Coarse Cereals,Kharif,0,0,1767
+Punjab,Ferozepur,Nutri/Coarse Cereals,Total,0,0,1767
+Punjab,Ferozepur,Cereals,Kharif,0.19,0.87,4666
+Punjab,Ferozepur,Cereals,Rabi,0.19,0.98,5223
+Punjab,Ferozepur,Cereals,Total,0.37,1.85,4945
+Punjab,Ferozepur,Moong,Kharif,0,0,785
+Punjab,Ferozepur,Moong,Summer,0,0,1000
+Punjab,Ferozepur,Moong,Total,0,0,986
+Punjab,Ferozepur,Total Pulses,Total,0,0,986
+Punjab,Ferozepur,Total Food Grains,Kharif,0.19,0.87,4664
+Punjab,Ferozepur,Total Food Grains,Rabi,0.19,0.98,5223
+Punjab,Ferozepur,Total Food Grains,Summer,0,0,1000
+Punjab,Ferozepur,Total Food Grains,Total,0.38,1.85,4928
+Punjab,Moga,Rice,Kharif,0.18,0.87,4721
+Punjab,Moga,Rice,Total,0.18,0.87,4721
+Punjab,Moga,Wheat,Rabi,0.18,0.94,5360
+Punjab,Moga,Wheat,Total,0.18,0.94,5360
+Punjab,Moga,Maize,Kharif,0,0,4234
+Punjab,Moga,Maize,Total,0,0,4234
+Punjab,Moga,Barley,Rabi,0,0,3809
+Punjab,Moga,Barley,Total,0,0,3809
+Punjab,Moga,Nutri/Coarse Cereals,Kharif,0,0,4234
+Punjab,Moga,Nutri/Coarse Cereals,Rabi,0,0,3809
+Punjab,Moga,Nutri/Coarse Cereals,Total,0,0,4022
+Punjab,Moga,Cereals,Kharif,0.18,0.87,4720
+Punjab,Moga,Cereals,Rabi,0.18,0.94,5358
+Punjab,Moga,Cereals,Total,0.36,1.82,5032
+Punjab,Moga,Tur,Kharif,0,0,1116
+Punjab,Moga,Tur,Total,0,0,1116
+Punjab,Moga,Moong,Kharif,0,0,785
+Punjab,Moga,Moong,Summer,0,0,1000
+Punjab,Moga,Moong,Total,0,0,995
+Punjab,Moga,Total Pulses,Total,0,0,1003
+Punjab,Moga,Total Food Grains,Kharif,0.19,0.87,4712
+Punjab,Moga,Total Food Grains,Rabi,0.18,0.94,5358
+Punjab,Moga,Total Food Grains,Summer,0,0,1000
+Punjab,Moga,Total Food Grains,Total,0.37,1.82,4980
+Punjab,Ludhiana ,wheat,Rabi ,145000,680000,4.69
+Punjab,Ludhiana,Rice,Kharit ,120000,480000,4
+Punjab,Ludhiana,Maize,Rabi ,25000,900000,3.6
+Punjab,Ludhiana,Mustavd,Rabi ,18000,27000,1.5
+Punjab,Amritsar ,wheat,Rabi ,130000,58500,4.5
+Punjab,Amritsar,Rice,Kharit ,110000,4300000,3.91
+Punjab,Amritsar,Maize,Kharit ,20000,70000,3.5
+Punjab,Amritsar,potato,Rabi ,15000,300000,20
+Punjab,Jalandhar ,wheat,Rabi ,125000,560000,4.48
+Punjab,Jalandhar,Rice,Kharit ,105000,410000,3.9
+Punjab,Jalandhar,Sugarcane,Annual,30000,2100000,70
+Punjab,Jalandhar,Maize,Kharit ,22000,77000,3.5
+Punjab,Patiala ,wheat,Rabi ,140000,640000,4.57
+Punjab,Patiala,Rice,Kharit ,11500,455000,3.96
+Punjab,Patiala,Barley,Rabi ,20000,68000,3.4
+Punjab,Ludhiana,Wheat,Rabi,120000,552000,4.6
+Punjab,Ludhiana,Rice,Kharif,100000,390000,3.9
+Punjab,Ludhiana,Maize,Kharif,25000,87500,3.5
+Punjab,Ludhiana,Mustard,Rabi,18000,27000,1.5
+Punjab,Ludhiana,Potato,Rabi,15000,300000,20
+Punjab,Ludhiana,Sugarcane,Annual,22000,1540000,70
+Punjab,Ludhiana,Barley,Rabi,20000,66000,3.3
+Punjab,Ludhiana,Cotton,Kharif,40000,72000,1.8
+Punjab,Ludhiana,Wheat,Rabi,115000,517500,4.5
+Punjab,Amritsar,Rice,Kharif,95000,370500,3.9
+Punjab,Amritsar,Maize,Kharif,22000,77000,3.5
+Punjab,Amritsar,Mustard,Rabi,16000,24000,1.5
+Punjab,Amritsar,Potato,Rabi,14000,280000,20
+Punjab,Amritsar,Sugarcane,Annual,20000,1400000,70
+Punjab,Amritsar,Barley,Rabi,18000,59400,3.3
+Punjab,Amritsar,Cotton,Kharif,35000,63000,1.8
+Punjab,Amritsar,Wheat,Rabi,118000,531000,4.5
+Punjab,Jalandhar,Rice,Kharif,98000,382200,3.9
+Punjab,Jalandhar,Maize,Kharif,23000,80500,3.5
+Punjab,Jalandhar,Mustard,Rabi,15000,22500,1.5
+Punjab,Jalandhar,Potato,Rabi,16000,320000,20
+Punjab,Jalandhar,Sugarcane,Annual,24000,1680000,70
+Punjab,Jalandhar,Barley,Rabi,19000,62700,3.3
+Punjab,Jalandhar,Cotton,Kharif,30000,54000,1.8
+Punjab,Jalandhar,Wheat,Rabi,125000,575000,4.6
+Punjab,Patiala,Rice,Kharif,105000,409500,3.9
+Punjab,Patiala,Maize,Kharif,24000,84000,3.5
+Punjab,Patiala,Mustard,Rabi,17000,25500,1.5
+Punjab,Patiala,Potato,Rabi,15500,310000,20
+Punjab,Patiala,Sugarcane,Annual,23000,1610000,70
+Punjab,Patiala,Barley,Rabi,21000,69300,3.3
+Punjab,Patiala,Cotton,Kharif,38000,68400,1.8
+Punjab,Patiala,Wheat,Rabi,120000,552000,4.6
+Punjab,Ludhiana,Rice,Kharif,100000,390000,3.9
+Punjab,Ludhiana,Maize,Kharif,25000,87500,3.5
+Punjab,Ludhiana,Cotton,Kharif,40000,72000,1.8
+Punjab,Ludhiana,Wheat,Rabi,115000,517500,4.5
+Punjab,Amritsar,Rice,Kharif,95000,370500,3.9
+Punjab,Amritsar,Maize,Kharif,22000,77000,3.5
+Punjab,Amritsar,Cotton,Kharif,35000,63000,1.8
+Punjab,Amritsar,Wheat,Rabi,118000,531000,4.5
+Punjab,Jalandhar,Rice,Kharif,98000,382200,3.9
+Punjab,Jalandhar,Maize,Kharif,23000,80500,3.5
+Punjab,Jalandhar,Cotton,Kharif,30000,54000,1.8
+Punjab,Jalandhar,Wheat,Rabi,125000,575000,4.6
+Punjab,Patiala,Rice,Kharif,105000,409500,3.9
+Punjab,Patiala,Maize,Kharif,24000,84000,3.5
+Punjab,Patiala,Cotton,Kharif,38000,68400,1.8
+Punjab,Patiala,Wheat,Rabi,130000,585000,4.5
+Punjab,Bathinda,Rice,Kharif,90000,351000,3.9
+Punjab,Bathinda,Maize,Kharif,21000,73500,3.5
+Punjab,Bathinda,Cotton,Kharif,42000,75600,1.8
+Punjab,Bathinda,Wheat,Rabi,110000,495000,4.5
+Punjab,Moga,Rice,Kharif,88000,343200,3.9
+Punjab,Moga,Maize,Kharif,20000,70000,3.5
+Punjab,Moga,Cotton,Kharif,36000,64800,1.8
+Punjab,Moga,Wheat,Rabi,112000,504000,4.5
+Punjab,Ferozepur,Rice,Kharif,86000,335400,3.9
+Punjab,Ferozepur,Maize,Kharif,19500,68250,3.5
+Punjab,Ferozepur,Cotton,Kharif,34000,61200,1.8
+Punjab,Ferozepur,Wheat,Rabi,119000,535500,4.5
+Punjab,Sangrur,Rice,Kharif,97000,378300,3.9
+Punjab,Sangrur,Maize,Kharif,22500,78750,3.5
+Punjab,Sangrur,Cotton,Kharif,39000,70200,1.8
+Punjab,Sangrur,Wheat,Rabi,108000,486000,4.5
+Punjab,Gurdaspur,Rice,Kharif,84000,327600,3.9
+Punjab,Gurdaspur,,,,,
+Punjab,Gurdaspur,Wheat,Rabi,120000,552000,4.6
+Punjab,Ludhiana,Rice,Kharif,100000,390000,3.9
+Punjab,Ludhiana,Maize,Kharif,25000,87500,3.5
+Punjab,Ludhiana,Mustard,Rabi,18000,27000,1.5
+Punjab,Ludhiana,Potato,Rabi,15000,300000,20
+Punjab,Ludhiana,Sugarcane,Annual,22000,1540000,70
+Punjab,Ludhiana,Barley,Rabi,20000,66000,3.3
+Punjab,Ludhiana,Cotton,Kharif,40000,72000,1.8
+Punjab,Ludhiana,Wheat,Rabi,115000,517500,4.5
+Punjab,Amritsar,Rice,Kharif,95000,370500,3.9
+Punjab,Amritsar,Maize,Kharif,22000,77000,3.5
+Punjab,Amritsar,Mustard,Rabi,16000,24000,1.5
+Punjab,Amritsar,Potato,Rabi,14000,280000,20
+Punjab,Amritsar,Sugarcane,Annual,20000,1400000,70
+Punjab,Amritsar,Barley,Rabi,18000,59400,3.3
+Punjab,Amritsar,Cotton,Kharif,35000,63000,1.8
+Punjab,Amritsar,Wheat,Rabi,118000,531000,4.5
+Punjab,Jalandhar,Rice,Kharif,98000,382200,3.9
+Punjab,Jalandhar,Maize,Kharif,23000,80500,3.5
+Punjab,Jalandhar,Mustard,Rabi,15000,22500,1.5
+Punjab,Jalandhar,Potato,Rabi,16000,320000,20
+Punjab,Jalandhar,Sugarcane,Annual,24000,1680000,70
+Punjab,Jalandhar,Barley,Rabi,19000,62700,3.3
+Punjab,Jalandhar,Cotton,Kharif,30000,54000,1.8
+Punjab,Jalandhar,Wheat,Rabi,125000,575000,4.6
+Punjab,Patiala,Rice,Kharif,105000,409500,3.9
+Punjab,Patiala,Maize,Kharif,24000,84000,3.5
+Punjab,Patiala,Mustard,Rabi,17000,25500,1.5
+Punjab,Patiala,Potato,Rabi,15500,310000,20
+Punjab,Patiala,Sugarcane,Annual,23000,1610000,70
+Punjab,Patiala,Barley,Rabi,21000,69300,3.3
+Punjab,Patiala,Cotton,Kharif,38000,68400,1.8
+Punjab,Patiala,Wheat,Rabi,130000,585000,4.5
+Punjab,Bathinda,Rice,Kharif,90000,351000,3.9
+Punjab,Bathinda,Maize,Kharif,21000,73500,3.5
+Punjab,Bathinda,Mustard,Rabi,16500,24750,1.5
+Punjab,Bathinda,Potato,Rabi,14500,290000,20
+Punjab,Bathinda,Sugarcane,Annual,19000,1330000,70
+Punjab,Bathinda,Barley,Rabi,17500,57750,3.3
+Punjab,Bathinda,Cotton,Kharif,42000,75600,1.8
+Punjab,Bathinda,Wheat,Rabi,121000,556600,4.6
+Punjab,Ludhiana,Rice,Kharif,101200,394680,3.9
+Punjab,Ludhiana,Maize,Kharif,26200,91700,3.5
+Punjab,Ludhiana,Mustard,Rabi,18500,27750,1.5
+Punjab,Ludhiana,Potato,Rabi,15200,304000,20
+Punjab,Ludhiana,Sugarcane,Annual,22150,1550500,70
+Punjab,Ludhiana,Barley,Rabi,20300,66990,3.3
+Punjab,Ludhiana,Cotton,Kharif,40500,72900,1.8
+Punjab,Ludhiana,Wheat,Rabi,116300,523350,4.5
+Punjab,Amritsar,Rice,Kharif,96200,375180,3.9
+Punjab,Amritsar,Maize,Kharif,22400,78400,3.5
+Punjab,Amritsar,Mustard,Rabi,16300,24450,1.5
+Punjab,Amritsar,Potato,Rabi,14350,287000,20
+Punjab,Amritsar,Sugarcane,Annual,20120,1408400,70
+Punjab,Amritsar,Barley,Rabi,18200,60060,3.3
+Punjab,Amritsar,Cotton,Kharif,35800,64440,1.8
+Punjab,Amritsar,Wheat,Rabi,119100,535950,4.5
+Punjab,Jalandhar,Rice,Kharif,98900,385710,3.9
+Punjab,Jalandhar,Maize,Kharif,23600,82600,3.5
+Punjab,Jalandhar,Mustard,Rabi,15400,23100,1.5
+Punjab,Jalandhar,Potato,Rabi,16250,325000,20
+Punjab,Jalandhar,Sugarcane,Annual,24350,1704500,70
+Punjab,Jalandhar,Barley,Rabi,19400,64020,3.3
+Punjab,Jalandhar,Cotton,Kharif,31200,56160,1.8
+Punjab,Jalandhar,Wheat,Rabi,126200,580520,4.6
+Punjab,Patiala,Rice,Kharif,106400,415000,3.9
+Punjab,Patiala,Maize,Kharif,24600,86100,3.5
+Punjab,Patiala,Mustard,Rabi,17300,25950,1.5
+Punjab,Patiala,Potato,Rabi,15800,316000,20
+Punjab,Patiala,Sugarcane,Annual,23220,1625400,70
+Punjab,Patiala,Barley,Rabi,21400,70620,3.3
+Punjab,Patiala,Cotton,Kharif,38700,69660,1.8
+Punjab,Patiala,Wheat,Rabi,131500,591750,4.5
+Punjab,Bathinda,Rice,Kharif,91200,355680,3.9
+Punjab,Bathinda,Maize,Kharif,21800,76300,3.5
+Punjab,Bathinda,Mustard,Rabi,16800,25200,1.5
+Punjab,Bathinda,Potato,Rabi,14700,294000,20
+Punjab,Bathinda,Sugarcane,Annual,19400,1358000,70
+Punjab,Bathinda,Barley,Rabi,17850,58905,3.3
+Punjab,Bathinda,Cotton,Kharif,42700,76860,1.8
+Punjab,Bathinda,Wheat,Rabi,118400,532800,4.5
+Punjab,Moga,Rice,Kharif,97400,379860,3.9
+Punjab,Moga,Maize,Kharif,23100,80850,3.5
+Punjab,Moga,Mustard,Rabi,15900,23850,1.5
+Punjab,Moga,Potato,Rabi,15100,302000,20
+Punjab,Moga,Sugarcane,Annual,20800,1456000,70
+Punjab,Moga,Barley,Rabi,18600,61380,3.3
+Punjab,Moga,Cotton,Kharif,33600,60480,1.8
+Punjab,Moga,Wheat,Rabi,123800,557100,4.5
+Punjab,Sangrur,Rice,Kharif,103600,404040,3.9
+Punjab,Sangrur,Maize,Kharif,24200,84700,3.5
+Punjab,Sangrur,Mustard,Rabi,16600,24900,1.5
+Punjab,Sangrur,Potato,Rabi,15650,313000,20
+Punjab,Sangrur,Sugarcane,Annual,21900,1533000,70
+Punjab,Sangrur,Barley,Rabi,19800,65340,3.3
+Punjab,Sangrur,Cotton,Kharif,37200,66960,1.8
+Punjab,Sangrur,Wheat,Rabi,120100,553460,4.61
+Punjab,Ludhiana,Rice,Kharif,100200,391780,3.91
+Punjab,Ludhiana,Maize,Kharif,25150,88525,3.52
+Punjab,Ludhiana,Mustard,Rabi,18120,27361,1.51
+Punjab,Ludhiana,Potato,Rabi,15230,306140,20.1
+Punjab,Ludhiana,Sugarcane,Annual,22150,1552040,70.05
+Punjab,Ludhiana,Barley,Rabi,20340,67222,3.31
+Punjab,Ludhiana,Cotton,Kharif,40210,72840,1.81
+Punjab,Ludhiana,Wheat,Rabi,115340,520890,4.52
+Punjab,Amritsar,Rice,Kharif,95320,373210,3.92
+Punjab,Amritsar,Maize,Kharif,22340,78190,3.5
+Punjab,Amritsar,Mustard,Rabi,16230,24610,1.52
+Punjab,Amritsar,Potato,Rabi,14320,288430,20.14
+Punjab,Amritsar,Sugarcane,Annual,20140,1411200,70.06
+Punjab,Amritsar,Barley,Rabi,18220,60492,3.32
+Punjab,Amritsar,Cotton,Kharif,35210,63730,1.81
+Punjab,Amritsar,Wheat,Rabi,118420,534860,4.52
+Punjab,Jalandhar,Rice,Kharif,98210,384530,3.91
+Punjab,Jalandhar,Maize,Kharif,23120,80940,3.5
+Punjab,Jalandhar,Mustard,Rabi,15320,23280,1.52
+Punjab,Jalandhar,Potato,Rabi,16210,325400,20.08
+Punjab,Jalandhar,Sugarcane,Annual,24210,1701000,70.29
+Punjab,Jalandhar,Barley,Rabi,19230,64040,3.33
+Punjab,Jalandhar,Cotton,Kharif,30240,54880,1.82
+Punjab,Jalandhar,Wheat,Rabi,125620,579190,4.61
+Punjab,Patiala,Rice,Kharif,105420,412360,3.91
+Punjab,Patiala,Maize,Kharif,24240,85030,3.51
+Punjab,Patiala,Mustard,Rabi,17230,26020,1.51
+Punjab,Patiala,Potato,Rabi,15780,317450,20.11
+Punjab,Patiala,Sugarcane,Annual,23340,1635200,70.07
+Punjab,Patiala,Barley,Rabi,21340,71040,3.33
+Punjab,Patiala,Cotton,Kharif,38220,69760,1.82
+Punjab,Patiala,Wheat,Rabi,130480,589420,4.52
+Punjab,Bathinda,Rice,Kharif,90430,353690,3.91
+Punjab,Bathinda,Maize,Kharif,21440,75040,3.5
+Punjab,Bathinda,Mustard,Rabi,16780,25390,1.51
+Punjab,Bathinda,Potato,Rabi,14740,296100,20.08
+Punjab,Bathinda,Sugarcane,Annual,19450,1363400,70.1
+Punjab,Bathinda,Barley,Rabi,17820,58800,3.3
+Punjab,Bathinda,Cotton,Kharif,42540,77640,1.83
+Punjab,Bathinda,Wheat,Rabi,121450,551600,4.54
+Punjab,Moga,Rice,Kharif,101230,395000,3.9
+Punjab,Moga,Maize,Kharif,22650,79620,3.51
+Punjab,Moga,Mustard,Rabi,16340,24910,1.52
+Punjab,Moga,Potato,Rabi,14620,294800,20.15
+Punjab,Moga,Sugarcane,Annual,21540,1510200,70.12
+Punjab,Moga,Barley,Rabi,18740,62100,3.31
+Punjab,Moga,Cotton,Kharif,36210,65940,1.82
+Punjab,Moga,Wheat,Rabi,121000,557000,4.6
+Punjab,Ludhiana,Rice,Kharif,102500,400000,3.9
+Punjab,Ludhiana,Maize,Kharif,25500,90000,3.53
+Punjab,Ludhiana,Mustard,Rabi,18500,28000,1.51
+Punjab,Ludhiana,Potato,Rabi,15200,305000,20.07
+Punjab,Ludhiana,Sugarcane,Annual,22500,1575000,70
+Punjab,Ludhiana,Barley,Rabi,20500,67600,3.3
+Punjab,Ludhiana,Cotton,Kharif,41000,73800,1.8
+Punjab,Ludhiana,Wheat,Rabi,116500,525000,4.51
+Punjab,Amritsar,Rice,Kharif,97000,378000,3.9
+Punjab,Amritsar,Maize,Kharif,22500,79200,3.52
+Punjab,Amritsar,Mustard,Rabi,16200,24500,1.51
+Punjab,Amritsar,Potato,Rabi,14350,288000,20.07
+Punjab,Amritsar,Sugarcane,Annual,20500,1435000,70
+Punjab,Amritsar,Barley,Rabi,18200,60000,3.3
+Punjab,Amritsar,Cotton,Kharif,36000,65000,1.81
+Punjab,Amritsar,Wheat,Rabi,119000,535000,4.5
+Punjab,Jalandhar,Rice,Kharif,99000,387000,3.91
+Punjab,Jalandhar,Maize,Kharif,23500,82500,3.51
+Punjab,Jalandhar,Mustard,Rabi,15500,23400,1.51
+Punjab,Jalandhar,Potato,Rabi,16100,322000,20
+Punjab,Jalandhar,Sugarcane,Annual,24500,1715000,70
+Punjab,Jalandhar,Barley,Rabi,19500,64500,3.31
+Punjab,Jalandhar,Cotton,Kharif,31000,56000,1.81
+Punjab,Jalandhar,Wheat,Rabi,126000,581000,4.61
+Punjab,Patiala,Rice,Kharif,107000,418000,3.91
+Punjab,Patiala,Maize,Kharif,24500,86000,3.51
+Punjab,Patiala,Mustard,Rabi,17200,26000,1.51
+Punjab,Patiala,Potato,Rabi,15750,316000,20.06
+Punjab,Patiala,Sugarcane,Annual,23200,1624000,70
+Punjab,Patiala,Barley,Rabi,21400,70600,3.3
+Punjab,Patiala,Cotton,Kharif,39000,70500,1.81
+Punjab,Patiala,Wheat,Rabi,131000,590000,4.5
+Punjab,Bathinda,Rice,Kharif,92000,360000,3.91
+Punjab,Bathinda,Maize,Kharif,21800,77000,3.53
+Punjab,Bathinda,Mustard,Rabi,16800,25300,1.51
+Punjab,Bathinda,Potato,Rabi,14800,296000,20
+Punjab,Bathinda,Sugarcane,Annual,19800,1386000,70
+Punjab,Bathinda,Barley,Rabi,17800,58700,3.3
+Punjab,Bathinda,Cotton,Kharif,43000,78000,1.81
+Punjab,Bathinda,Wheat,Rabi,118500,534000,4.51
+Punjab,Moga,Rice,Kharif,101000,394000,3.9
+Punjab,Moga,Maize,Kharif,22800,80200,3.52
+Punjab,Moga,Mustard,Rabi,15800,23900,1.51
+Punjab,Moga,Potato,Rabi,14200,284000,20
+Punjab,Moga,Sugarcane,Annual,21000,1470000,70
+Punjab,Moga,Barley,Rabi,18500,61100,3.3
+Punjab,Moga,Cotton,Kharif,36500,66000,1.81
+Punjab,Moga,Wheat,Rabi,112000,498000,4.45
+Punjab,Ferozepur,Rice,Kharif,93000,345000,3.71
+Punjab,Ferozepur,Maize,Kharif,21500,75200,3.5
+Punjab,Ferozepur,Mustard,Rabi,15100,22800,1.51
+Punjab,Ferozepur,Potato,Rabi,13900,278000,20
+Punjab,Ferozepur,Sugarcane,Annual,19500,1365000,70
+Punjab,Ferozepur,Barley,Rabi,17600,58000,3.3
+Punjab,Ferozepur,Cotton,Kharif,34500,62000,1.8
+Punjab,Ferozepur,Wheat,Rabi,127000,585000,4.61
+Punjab,Sangrur,Rice,Kharif,108000,421000,3.9
+Punjab,Sangrur,Maize,Kharif,24800,87000,3.51
+Punjab,Sangrur,Mustard,Rabi,17400,26200,1.51
+Punjab,Sangrur,Potato,Rabi,15900,318000,20
+Punjab,Sangrur,Sugarcane,Annual,23500,1645000,70
+Punjab,Sangrur,Barley,Rabi,21600,71200,3.3
+Punjab,Sangrur,Cotton,Kharif,39500,71500,1.81
+Punjab,Sangrur,Wheat,Rabi,114000,508000,4.46
+Punjab,Gurdaspur,Rice,Kharif,94000,348000,3.7
+Punjab,Gurdaspur,Maize,Kharif,22000,77000,3.5
+Punjab,Gurdaspur,Mustard,Rabi,15300,23100,1.51
+Punjab,Gurdaspur,Potato,Rabi,14000,280000,20
+Punjab,Gurdaspur,Sugarcane,Annual,20000,1400000,70
+Punjab,Gurdaspur,Barley,Rabi,18000,59400,3.3
+Punjab,Gurdaspur,Cotton,Kharif,35000,63000,1.8
+Punjab,Gurdaspur,Wheat,Rabi,120000,552000,4.6
+Punjab,Ludhiana,Rice,Kharif,100500,392000,3.9
+Punjab,Ludhiana,Maize,Kharif,26000,91000,3.5
+Punjab,Ludhiana,Potato,Rabi,14800,296000,20
+Punjab,Ludhiana,Sugarcane,Annual,22500,1575000,70
+Punjab,Ludhiana,Wheat,Rabi,118000,531000,4.5
+Punjab,Amritsar,Rice,Kharif,96000,374400,3.9
+Punjab,Amritsar,Maize,Kharif,23000,80500,3.5
+Punjab,Amritsar,Mustard,Rabi,16500,24750,1.5
+Punjab,Amritsar,Potato,Rabi,14200,284000,20
+Punjab,Amritsar,Wheat,Rabi,121000,544500,4.5
+Punjab,Jalandhar,Rice,Kharif,99000,386100,3.9
+Punjab,Jalandhar,Maize,Kharif,23500,82250,3.5
+Punjab,Jalandhar,Sugarcane,Annual,23800,1666000,70
+Punjab,Jalandhar,Barley,Rabi,19500,64350,3.3
+Punjab,Jalandhar,Wheat,Rabi,126000,579600,4.6
+Punjab,Patiala,Rice,Kharif,106000,413400,3.9
+Punjab,Patiala,Maize,Kharif,24500,85750,3.5
+Punjab,Patiala,Mustard,Rabi,17200,25800,1.5
+Punjab,Patiala,Potato,Rabi,15800,316000,20
+Punjab,Patiala,Wheat,Rabi,132000,594000,4.5
+Punjab,Bathinda,Rice,Kharif,92000,358800,3.9
+Punjab,Bathinda,Cotton,Kharif,43000,77400,1.8
+Punjab,Bathinda,Maize,Kharif,21500,75250,3.5
+Punjab,Bathinda,Mustard,Rabi,16800,25200,1.5
+Punjab,Bathinda,Wheat,Rabi,119000,535500,4.5
+Punjab,Moga,Rice,Kharif,98500,384150,3.9
+Punjab,Moga,Potato,Rabi,14600,292000,20
+Punjab,Moga,Barley,Rabi,18200,60060,3.3
+Punjab,Moga,Maize,Kharif,22800,79800,3.5
+Punjab,Moga,Wheat,Rabi,113000,508500,4.5
+Punjab,Ferozepur,Rice,Kharif,94000,366600,3.9
+Punjab,Ferozepur,Cotton,Kharif,39500,71100,1.8
+Punjab,Ferozepur,Maize,Kharif,20500,71750,3.5
+Punjab,Ferozepur,Mustard,Rabi,16200,24300,1.5
+Punjab,Ferozepur,Wheat,Rabi,124000,570400,4.6
+Punjab,Sangrur,Rice,Kharif,104000,405600,3.9
+Punjab,Sangrur,Maize,Kharif,24200,84700,3.5
+Punjab,Sangrur,Barley,Rabi,19800,65340,3.3
+Punjab,Sangrur,Potato,Rabi,15200,304000,20
+Punjab,Sangrur,Wheat,Rabi,116000,522000,4.5
+Punjab,Gurdaspur,Rice,Kharif,97000,378300,3.9
+Punjab,Gurdaspur,Maize,Kharif,22600,79100,3.5
+Punjab,Gurdaspur,Mustard,Rabi,15800,23700,1.5
+Punjab,Gurdaspur,Sugarcane,Annual,21000,1470000,70
+Punjab,Gurdaspur,Wheat,Rabi,112000,504000,4.5
+Punjab,Hoshiarpur,Rice,Kharif,93000,362700,3.9
+Punjab,Hoshiarpur,Maize,Kharif,22000,77000,3.5
+Punjab,Hoshiarpur,Barley,Rabi,18500,61050,3.3
+Punjab,Hoshiarpur,Potato,Rabi,14900,298000,20
+Punjab,Hoshiarpur,Wheat,Rabi,120000,564000,4.7
+Punjab,Ludhiana,Rice,Kharif,102000,397800,3.9
+Punjab,Ludhiana,Maize,Kharif,26000,93600,3.6
+Punjab,Ludhiana,Mustard,Rabi,18500,27750,1.5
+Punjab,Ludhiana,Potato,Rabi,15200,304000,20
+Punjab,Ludhiana,Sugarcane,Annual,22500,1575000,70
+Punjab,Ludhiana,Barley,Rabi,20500,67650,3.3
+Punjab,Ludhiana,Cotton,Kharif,41000,75850,1.85
+Punjab,Ludhiana,Wheat,Rabi,118000,531000,4.5
+Punjab,Amritsar,Rice,Kharif,96000,374400,3.9
+Punjab,Amritsar,Maize,Kharif,23000,82800,3.6
+Punjab,Amritsar,Mustard,Rabi,16200,24300,1.5
+Punjab,Amritsar,Potato,Rabi,14500,290000,20
+Punjab,Amritsar,Sugarcane,Annual,21000,1470000,70
+Punjab,Amritsar,Barley,Rabi,18200,60060,3.3
+Punjab,Amritsar,Cotton,Kharif,36000,64800,1.8
+Punjab,Amritsar,Wheat,Rabi,119500,543725,4.55
+Punjab,Jalandhar,Rice,Kharif,98500,384150,3.9
+Punjab,Jalandhar,Maize,Kharif,23500,84600,3.6
+Punjab,Jalandhar,Mustard,Rabi,15800,23700,1.5
+Punjab,Jalandhar,Potato,Rabi,16200,324000,20
+Punjab,Jalandhar,Sugarcane,Annual,24500,1715000,70
+Punjab,Jalandhar,Barley,Rabi,19500,64350,3.3
+Punjab,Jalandhar,Cotton,Kharif,32000,59200,1.85
+Punjab,Jalandhar,Wheat,Rabi,127000,596900,4.7
+Punjab,Patiala,Rice,Kharif,106500,415350,3.9
+Punjab,Patiala,Maize,Kharif,24800,89280,3.6
+Punjab,Patiala,Mustard,Rabi,17400,26100,1.5
+Punjab,Patiala,Potato,Rabi,15800,316000,20
+Punjab,Patiala,Sugarcane,Annual,23500,1645000,70
+Punjab,Patiala,Barley,Rabi,21500,70950,3.3
+Punjab,Patiala,Cotton,Kharif,39000,72150,1.85
+Punjab,Patiala,Wheat,Rabi,132000,594000,4.5
+Punjab,Bathinda,Rice,Kharif,92500,361750,3.91
+Punjab,Bathinda,Maize,Kharif,21800,78480,3.6
+Punjab,Bathinda,Mustard,Rabi,16800,25200,1.5
+Punjab,Bathinda,Potato,Rabi,14800,296000,20
+Punjab,Bathinda,Sugarcane,Annual,19500,1365000,70
+Punjab,Bathinda,Barley,Rabi,17800,58740,3.3
+Punjab,Bathinda,Cotton,Kharif,43500,80475,1.85
+Punjab,Bathinda,Wheat,Rabi,121500,552825,4.55
+Punjab,Moga,Rice,Kharif,101500,395850,3.9
+Punjab,Moga,Maize,Kharif,22800,82080,3.6
+Punjab,Moga,Mustard,Rabi,16400,24600,1.5
+Punjab,Moga,Potato,Rabi,15100,302000,20
+Punjab,Moga,Sugarcane,Annual,20500,1435000,70
+Punjab,Moga,Barley,Rabi,18800,62040,3.3
+Punjab,Moga,Cotton,Kharif,34500,63825,1.85
+Punjab,Moga,Wheat,Rabi,121000,556600,4.6
+Punjab,Ludhiana,Rice,Kharif,101500,396000,3.9
+Punjab,Ludhiana,Maize,Kharif,26200,91700,3.5
+Punjab,Ludhiana,Mustard,Rabi,18200,27300,1.5
+Punjab,Ludhiana,Potato,Rabi,15100,302000,20
+Punjab,Ludhiana,Sugarcane,Annual,22150,1550500,70
+Punjab,Ludhiana,Barley,Rabi,20300,67000,3.3
+Punjab,Ludhiana,Cotton,Kharif,40500,73500,1.82
+Punjab,Ludhiana,Wheat,Rabi,116000,522000,4.5
+Punjab,Amritsar,Rice,Kharif,96000,374400,3.9
+Punjab,Amritsar,Maize,Kharif,22400,78400,3.5
+Punjab,Amritsar,Mustard,Rabi,16200,24300,1.5
+Punjab,Amritsar,Potato,Rabi,14200,284000,20
+Punjab,Amritsar,Sugarcane,Annual,20500,1435000,70
+Punjab,Amritsar,Barley,Rabi,18300,60390,3.3
+Punjab,Amritsar,Cotton,Kharif,35800,64440,1.8
+Punjab,Amritsar,Wheat,Rabi,118500,533250,4.5
+Punjab,Jalandhar,Rice,Kharif,98700,385000,3.9
+Punjab,Jalandhar,Maize,Kharif,23400,81900,3.5
+Punjab,Jalandhar,Mustard,Rabi,15300,22950,1.5
+Punjab,Jalandhar,Potato,Rabi,16200,324000,20
+Punjab,Jalandhar,Sugarcane,Annual,24100,1687000,70
+Punjab,Jalandhar,Barley,Rabi,19500,64350,3.3
+Punjab,Jalandhar,Cotton,Kharif,30700,55260,1.8
+Punjab,Jalandhar,Wheat,Rabi,126200,580500,4.6
+Punjab,Patiala,Rice,Kharif,106800,416500,3.9
+Punjab,Patiala,Maize,Kharif,24500,85750,3.5
+Punjab,Patiala,Mustard,Rabi,17300,25950,1.5
+Punjab,Patiala,Potato,Rabi,15750,315000,20
+Punjab,Patiala,Sugarcane,Annual,23400,1638000,70
+Punjab,Patiala,Barley,Rabi,21300,70290,3.3
+Punjab,Patiala,Cotton,Kharif,38500,69300,1.8
+Punjab,Patiala,Wheat,Rabi,131400,591300,4.5
+Punjab,Bathinda,Rice,Kharif,91400,356460,3.9
+Punjab,Bathinda,Maize,Kharif,21600,75600,3.5
+Punjab,Bathinda,Mustard,Rabi,16800,25200,1.5
+Punjab,Bathinda,Potato,Rabi,14600,292000,20
+Punjab,Bathinda,Sugarcane,Annual,19400,1358000,70
+Punjab,Bathinda,Barley,Rabi,17900,59070,3.3
+Punjab,Bathinda,Cotton,Kharif,42800,77040,1.8
+Punjab,Bathinda,Wheat,Rabi,119800,539100,4.5
+,Moga,,,,,
